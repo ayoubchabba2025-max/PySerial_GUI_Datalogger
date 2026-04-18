@@ -19,3 +19,7 @@ Fonctionne sous W10 autre OS pas testé
 -os-sys
 -regex
 ###############################################################################
+# 🎵 JavaZic
+
+JavaZic est une application de streaming musical développée en Java, inspirée de plateformes comme Spotify et Deezer.
+Elle permet d’écouter de la musique, gérer des playlists et explorer une bibliothèque audio.
